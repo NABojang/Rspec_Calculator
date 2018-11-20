@@ -1,1 +1,1 @@
-# Rspec_Calculator
+# OOP-LAB-1
